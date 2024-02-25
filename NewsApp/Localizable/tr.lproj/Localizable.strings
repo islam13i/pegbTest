@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  NewsApp
+
+  Created by Islam Baigaziev on 25/2/24.
+  
+*/
+"News App" = "Haber Uygulaması";
+"Search News" = "Haber Ara";
+"News" = "Haberler";
+"Favorites" = "Favoriler";
+"News Source" = "Haber Kaynağı";
+"Unknown Author" = "Bilinmeyen Yazar";
+"Unknown Date" = "Bilinmeyen Tarih";
+"Unknown Description" = "Bilinmeyen Açıklama";
+"Warning" = "Uyarı";
+"You have added this news to your favorite list before. You cannot add it again." = "Bu haberi daha önce favori listenize eklediniz. Tekrar ekleyemezsiniz.";
+"Favorite news" = "Favori Haber";
+"This news has been added to your favorite list." = "Bu haber favori listenize eklendi.";
+"Your favorite news list is empty!" = "Favori haber listeniz boş!";
+"Delete" = "Sil";
+"Are you sure you want to delete this news from favorite list?" = "Bu haberi favori listesinden silmek istediğinizden emin misiniz?";
+"Deletion Confirmation" = "Silme Onayı";
+"Cancel" = "İptal";
+"OK" = "Tamam";

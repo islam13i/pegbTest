@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  NewsApp
+
+  Created by Islam Baigaziev on 25/2/24.
+  
+*/
+"News App" = "News App";
+"Search News" = "Search News";
+"News" = "News";
+"Favorites" = "Favorites";
+"News Source" = "News Source";
+"Unknown Author" = "Unknown Author";
+"Unknown Date" = "Unknown Date";
+"Unknown Description" = "Unknown Description";
+"Warning" = "Warning";
+"You have added this news to your favorite list before. You cannot add it again." = "You have added this news to your favorite list before. You cannot add it again.";
+"Favorite news" = "Favorite news";
+"This news has been added to your favorite list." = "This news has been added to your favorite list.";
+"Your favorite news list is empty!" = "Your favorite news list is empty!";
+"Delete" = "Delete";
+"Are you sure you want to delete this news from favorite list?" = "Are you sure you want to delete this news from favorite list?";
+"Deletion Confirmation" = "Deletion Confirmation";
+"Cancel" = "Cancel";
+"OK" = "OK";
