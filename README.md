@@ -13,7 +13,6 @@
 # Compatibility
 - Requires iOS 11.0 or later. 
 - Compatible with iPhone.
-- The application supports English and Turkish languages.
 
 # Architecture
 - MVVM architecture was used in this project.
